@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harianjawatimur.github.io/sitemap.xml
